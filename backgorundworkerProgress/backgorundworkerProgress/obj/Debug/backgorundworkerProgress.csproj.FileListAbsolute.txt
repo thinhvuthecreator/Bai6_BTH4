@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\backgorundworkerProgress\backgorundworkerProgress\ob
 C:\Users\admin\source\repos\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.exe
 C:\Users\admin\source\repos\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.pdb
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\bin\Debug\backgorundworkerProgress.exe.config
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\bin\Debug\backgorundworkerProgress.exe
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\bin\Debug\backgorundworkerProgress.pdb
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.Form1.resources
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.exe
+C:\Users\admin\OneDrive\Desktop\local\backgorundworkerProgress\backgorundworkerProgress\obj\Debug\backgorundworkerProgress.pdb

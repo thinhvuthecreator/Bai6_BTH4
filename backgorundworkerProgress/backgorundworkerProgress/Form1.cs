@@ -63,6 +63,8 @@ namespace backgorundworkerProgress
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             MessageBox.Show("Đã sao chép xong !");
+            label3.Visible = false;
+            
             
         }
 
