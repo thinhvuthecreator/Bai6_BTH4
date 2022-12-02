@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\copyFile\copyFile\obj\Debug\copyFile.csproj.Generate
 C:\Users\admin\source\repos\copyFile\copyFile\obj\Debug\copyFile.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\copyFile\copyFile\obj\Debug\copyFile.exe
 C:\Users\admin\source\repos\copyFile\copyFile\obj\Debug\copyFile.pdb
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\bin\Debug\copyFile.exe.config
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\bin\Debug\copyFile.exe
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\bin\Debug\copyFile.pdb
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.Form1.resources
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.exe
+C:\Users\admin\OneDrive\Desktop\local\copyFile\copyFile\obj\Debug\copyFile.pdb
